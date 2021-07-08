@@ -11,11 +11,13 @@ export default function Home() {
            <title>First Next Project</title>
          </Head>
 
-         <h1>Best Site</h1>
-         <Link href="/blogs">
-           <a>Blogs</a>
-         </Link>
-
+         <h1>Best Blogs</h1>
+         <Image 
+         src="/images/jocker.jpg"
+         alt="photo" 
+         width={480}
+         height={400} 
+         />
        </section>
   )
 }

@@ -1,3 +1,8 @@
+.style1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .container {
   min-height: 100vh;
   padding: 0 0.5rem;
